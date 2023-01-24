@@ -1,0 +1,17 @@
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Repository.deps.json
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Repository.pdb
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.AssemblyInfoInputs.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.AssemblyInfo.cs
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.csproj.CoreCompileInputs.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ref\ApiCadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.pdb
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.csproj.AssemblyReference.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Repository.runtimeconfig.json
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\bin\Debug\net6.0\ApiCadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.csproj.CopyComplete
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\ApiCadastraDados.Repository.genruntimeconfig.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Repository\obj\Debug\net6.0\refint\ApiCadastraDados.Repository.dll

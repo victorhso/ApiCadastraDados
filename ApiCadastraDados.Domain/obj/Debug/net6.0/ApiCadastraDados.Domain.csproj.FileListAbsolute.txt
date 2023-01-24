@@ -1,0 +1,12 @@
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.AssemblyInfoInputs.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.AssemblyInfo.cs
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.csproj.CoreCompileInputs.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\bin\Debug\net6.0\ApiCadastraDados.Domain.deps.json
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\bin\Debug\net6.0\ApiCadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\bin\Debug\net6.0\ApiCadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ref\ApiCadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\ApiCadastraDados.Domain.csproj.AssemblyReference.cache
+D:\CSharp\WS_CadastraDados\ApiCadastraDados\ApiCadastraDados.Domain\obj\Debug\net6.0\refint\ApiCadastraDados.Domain.dll

@@ -1,0 +1,5 @@
+# Ignore todos os arquivos json
+*.json
+
+# Ignore todos os arquivos sonarqube
+*.sonarqube

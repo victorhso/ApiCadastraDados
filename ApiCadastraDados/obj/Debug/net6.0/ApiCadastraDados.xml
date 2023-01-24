@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiCadastraDados</name>
+    </assembly>
+    <members>
+        <member name="M:ApiCadastraDados.Controllers.DadosController.GetUsers">
+            <summary>
+            Busca todos os usuários cadastrados na base.
+            </summary>
+        </member>
+        <member name="M:ApiCadastraDados.Controllers.DadosController.GetUser(System.Int32)">
+            <summary>
+            Busca o registro de um único usuário.
+            </summary>
+        </member>
+        <member name="M:ApiCadastraDados.Controllers.DadosController.InsertRegister(ApiCadastraDados.Domain.Dtos.DadosCadastroDtoPost)">
+            <summary>
+            Cria um novo registro de usuário.
+            </summary>
+        </member>
+        <member name="M:ApiCadastraDados.Controllers.DadosController.UpdateRegister(System.Int32,ApiCadastraDados.Domain.Dtos.DadosCadastroDtoPost)">
+            <summary>
+            Atualiza o registro de um usuário.
+            </summary>
+        </member>
+        <member name="M:ApiCadastraDados.Controllers.DadosController.DeleteRegister(System.Int32)">
+            <summary>
+            Deleta o registro de usuário.
+            </summary>
+        </member>
+    </members>
+</doc>
